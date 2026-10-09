@@ -26,7 +26,7 @@ The project focuses on understanding how text is converted into numerical vector
 
 ---
 
-## 🧠 What Are Text Embeddings?
+## What Are Text Embeddings?
 
 Text embeddings convert natural-language text into **numerical vectors** that capture semantic information.
 
@@ -53,7 +53,7 @@ These representations are commonly used for:
 
 ---
 
-## 🏗️ Project Workflow
+## Project Workflow
 
 ```text
 Input Text
@@ -71,7 +71,7 @@ Semantic Similarity / Retrieval
 
 ---
 
-## 🔧 Key Technical Concepts
+## Key Technical Concepts
 
 ### 1. Sentence Transformer Models
 
@@ -177,7 +177,7 @@ This makes embeddings useful for:
 
 ---
 
-## 🔐 Privacy and Cost Advantages
+## Privacy and Cost Advantages
 
 Local embedding models provide several practical advantages over API-based embedding services.
 
@@ -194,7 +194,7 @@ The main trade-off is that local execution requires sufficient **CPU/GPU resourc
 
 ---
 
-## 🔗 Embeddings in RAG
+## Embeddings in RAG
 
 Text embeddings are a fundamental component of **Retrieval-Augmented Generation (RAG)**.
 
@@ -224,7 +224,7 @@ This project focuses primarily on the **embedding stage**, which can later be co
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **Embedding Framework:** Sentence Transformers
@@ -236,7 +236,7 @@ This project focuses primarily on the **embedding stage**, which can later be co
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Install the required libraries:
 
@@ -246,7 +246,7 @@ pip install sentence-transformers transformers torch numpy scipy
 
 ---
 
-## 🚀 Basic Usage
+## Basic Usage
 
 A simplified workflow for generating local embeddings is:
 
@@ -269,7 +269,7 @@ The resulting vectors can then be used for similarity analysis or integrated int
 
 ---
 
-## 📚 Key Learning Outcomes
+## Key Learning Outcomes
 
 Through this project, you can understand:
 
@@ -283,7 +283,7 @@ Through this project, you can understand:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible extensions include:
 
@@ -300,7 +300,7 @@ Possible extensions include:
 
 ---
 
-## 🌐 Applications
+## Applications
 
 Local text embeddings can be used in:
 
@@ -316,7 +316,7 @@ Local text embeddings can be used in:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project provides a practical introduction to **local text embeddings using Hugging Face and Sentence Transformers**.
 
